@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Find Interest For Current Year">
+	<test name="SeleniumTesting">
+		<classes>
+			<class name="TestSuites.TestCases" />
+		</classes>
+	</test>
+</suite>

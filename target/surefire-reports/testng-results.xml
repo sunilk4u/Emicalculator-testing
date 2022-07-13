@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuites.TestCases" duration-ms="107969" started-at="2022-05-02T03:48:50Z" finished-at="2022-05-02T03:50:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="107969" started-at="2022-05-02T03:48:50Z" finished-at="2022-05-02T03:50:38Z">
+      <class name="TestSuites.TestCases">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:TestSuites.TestCases@78e67e0a]" name="invokeBrowser" is-config="true" duration-ms="8254" started-at="2022-05-02T03:48:50Z" finished-at="2022-05-02T03:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="emicalc()[pri:1, instance:TestSuites.TestCases@78e67e0a]" name="emicalc" duration-ms="31662" started-at="2022-05-02T03:48:58Z" finished-at="2022-05-02T03:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalc -->
+        <test-method status="PASS" signature="homeloan()[pri:2, instance:TestSuites.TestCases@78e67e0a]" name="homeloan" duration-ms="66331" started-at="2022-05-02T03:49:30Z" finished-at="2022-05-02T03:50:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloan -->
+        <test-method status="PASS" signature="loancalc()[pri:3, instance:TestSuites.TestCases@78e67e0a]" name="loancalc" duration-ms="27" started-at="2022-05-02T03:50:36Z" finished-at="2022-05-02T03:50:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loancalc -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestSuites.TestCases@78e67e0a]" name="closeBrowser" is-config="true" duration-ms="1645" started-at="2022-05-02T03:50:36Z" finished-at="2022-05-02T03:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuites.TestCases -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestSuites.TestCases -->
+</testng-results>
